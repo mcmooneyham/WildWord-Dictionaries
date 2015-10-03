@@ -1,3 +1,3 @@
 # WildWord-Dictionaries
-Dictionaries for WildWord Program
+REQUIRED Dictionaries for WildWord Program
  
